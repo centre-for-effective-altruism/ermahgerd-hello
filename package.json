@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^1.1.3"
+    "chalk": "^1.1.3",
+    "inquirer": "^1.2.2",
+    "node-ermahgerd": "0.0.1"
   }
 }
